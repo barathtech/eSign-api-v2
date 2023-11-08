@@ -1,0 +1,7 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:mysql://ft-base-db.cpbkcymdtrlu.us-east-1.rds.amazonaws.com:3306/onboarding_km_dev?useSSL=false&noAccessToProcedureBodies=true&autoReconnect=True
+    username: mysterydb
+    password: Q8EHxRsq8hR28e2Tk%Zv
